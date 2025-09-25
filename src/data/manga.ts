@@ -4,7 +4,7 @@ import { Manga } from '@/types/manga';
 const attackTitanCover = 'https://m.media-amazon.com/images/M/MV5BZjliODY5MzQtMmViZC00MTZmLWFhMWMtMjMwM2I3OGY1MTRiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg';
 const onePieceCover = 'https://m.media-amazon.com/images/M/MV5BMTNjNGU4NTUtYmVjMy00YjRiLTkxMWUtNzZkMDNiYjZhNmViXkEyXkFqcGc@._V1_.jpg';
 const soloLevelingCover = 'https://www.bdfugue.com/media/catalog/product/cache/0d950bd4d3aaddc02a824ea154d9c41e/9/7/9782382882559_1_75.webp';
-const demonSlayerCover = 'https://casablanca.megarama.ma/public/films/affiches/342_456/0598p10250016575ce74.jpg';
+const demonSlayerCover = 'https://demonslayer-hinokami.sega.com/img/purchase/digital-standard.jpg';
 const blueLockCover = 'https://images.epagine.fr/254/9782811650254_1_75.jpg';
 const narutoCover = 'https://m.media-amazon.com/images/M/MV5BNTk3MDA1ZjAtNTRhYS00YzNiLTgwOGEtYWRmYTQ3NjA0NTAwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg';
 const hunterCover = 'https://www.nautiljon.com/images/anime/00/98/hunter_x_hunter_2011_2089.webp';
